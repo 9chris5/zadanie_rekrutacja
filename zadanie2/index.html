@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Ksiązki</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/vuetify/dist/vuetify.min.css"
+      rel="stylesheet"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui"
+    />
+  </head>
+  <body>
+    <div id="app">
+      <v-app>
+        <v-content>
+          <v-container grid-list-sm>
+            <h1 class="display-1 mb-2">Lista książek</h1>
+            <v-layout row wrap>
+              <v-flex xs12 sm2>
+                <v-select
+                  v-model="filters.type"
+                  multiple
+                  label="Typ"
+				  :items="options.typ"
+                >
+                </v-select>
+              </v-flex>
+              <v-flex xs12 sm2>
+                <v-select
+                  v-model="filters.status"
+                  multiple
+                  label="Status"
+				  :items="options.status"
+                >
+                </v-select>
+              </v-flex>
+              <v-flex xs12 sm8>
+                <v-text-field
+                  v-model="search"
+                  append-icon="search"
+				  label="Szukaj frazy"
+                >
+                </v-text-field>
+              </v-flex>
+              <v-flex xs12>
+                <h4 class="subheading grey--text">Cena</h4>
+                <v-layout row wrap>
+                  <v-flex shrink xs2 sm1>
+					<v-text-field
+					  v-model="filters.price[0]"
+                      class="mt-0"
+                      hide-details
+                      outline
+                      single-line
+					  type="number"
+					  label="Min"
+                    ></v-text-field>
+                  </v-flex>
+                  <v-flex xs8 sm10>
+					<v-range-slider
+					  v-model="filters.price"
+                      class="mx-2"
+                      :step="1"
+                      :min="priceRange.min"
+                      :max="priceRange.max"
+                    ></v-range-slider>
+                  </v-flex>
+                  <v-flex shrink xs2 sm1>
+					<v-text-field
+					  v-model="filters.price[1]"
+                      class="mt-0"
+                      hide-details
+                      outline
+                      single-line
+					  type="number"
+					  label="Max"
+                    ></v-text-field>
+                  </v-flex>
+                </v-layout>
+              </v-flex>
+            </v-layout>
+            <v-data-table
+              class="my-2"
+              :headers="headers"
+              :items="filteredBooks"
+              :search="search"
+              :rows-per-page-items="[10, 20, 50, 100]"
+              rows-per-page-text="Książek na stronie"
+              no-data-text="Brak produktów"
+              no-results-text="Brak wyników wyszukiwania"
+            >
+              <template v-slot:items="props">
+                <td class="text-xs-left font-italic grey--text">
+                  {{ props.item.ident }}
+                </td>
+                <td>
+                  <v-img
+                    :src="props.item.okladka"
+                  >
+                  </v-img>
+                </td>
+                <td class="text-xs-left">{{ props.item.tytul }}</td>
+                <td class="text-xs-left">{{ props.item.autor }}</td>
+                <td class="text-xs-left">{{ props.item.cena }}</td>
+                <td class="text-xs-left">{{ props.item.typ }}</td>
+                <td class="text-xs-left">{{ props.item.status }}</td>
+              </template>
+              <template
+                slot="pageText"
+                slot-scope="{ pageStart, pageStop, itemsLength }"
+              >
+                {{ pageStart }} - {{ pageStop }} z {{ itemsLength }}
+              </template>
+            </v-data-table>
+          </v-container>
+        </v-content>
+      </v-app>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vuetify/dist/vuetify.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

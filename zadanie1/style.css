@@ -1,0 +1,172 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	margin: 0;
+	font-size: 1.6rem;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr {
+	border-color: #e4001e;
+}
+
+figure {
+  display: inline-block;
+  margin: 0;
+}
+
+.wrapper {
+	width: 100%;
+	max-width: 120rem;
+	margin: 0 auto;
+	padding: 0 1.5rem;
+	z-index: -1;
+}
+
+.nav {
+	padding: 1rem 0;
+  background-color: #e4001e;
+}
+
+.nav__brand {
+	text-decoration: none;
+	font-size: 3.2rem;
+	color: #fafafa;
+	display: inline-block;
+	line-height: 3.2rem;
+}
+
+.link {
+	text-decoration: none;
+	color: inherit;
+}
+
+.button {
+	position: relative;
+	display: inline-block;
+	padding: 1rem 2rem;
+	background-color: #e4001e;
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	transition: all 50ms cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+
+.button::after {
+	content: "";
+	position: absolute;
+	display: block;
+	background-color: #990014;
+	width: 100%;
+	height: 3px;
+	left: 0;
+	bottom: 0;
+	z-index: -1;
+	transition: transform 110ms cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+
+.button:hover::after {
+	transform: translateY(3px);
+}
+
+.button--fluid {
+	width: 100%;
+}
+
+.book__header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 2rem 0;
+}
+
+.book__coverage-group {
+	display: inline-flex;
+	flex-direction: column;
+}
+
+.book__coverage-group a {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+
+.book__coverage-group img {
+	margin: 2rem 0;
+}
+
+.book__title {
+	font-size: 2.6rem;
+}
+
+.book__title:hover {
+	color: #990014;
+}
+
+.book__info dt {
+  float: left;
+  clear: left;
+}
+
+.book__info dd {
+  margin-left: 0;
+}
+
+
+.book__description ul {
+  list-style: none;
+  padding: 0;
+}
+
+.book__description ul li {
+  margin-left: 1.5rem;
+  position: relative;
+}
+
+.book__description ul li::before {
+  content: '\2022';
+  position: absolute;
+  width: 1.5rem;
+  left: -1.5rem;
+  color: #e4001e;
+  display: inline-block;
+}
+
+/* utils */
+.font--semibold {
+	font-weight: 600;
+}
+
+.bg--light {
+	background-color: #fafafa;
+}
+
+.my-1 {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.my-5 {
+	margin-top: 5rem;
+	margin-bottom: 5rem;
+}
+
+@media all and (max-width: 1024px) {
+
+}
+
+@media all and (max-width: 767px) {
+  .book__header {
+    flex-direction: column;
+  }
+
+  .book__coverage-group img {
+    width: 100%;
+  }
+}

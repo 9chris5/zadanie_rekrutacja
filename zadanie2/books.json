@@ -1,0 +1,841 @@
+[
+  {
+    "ident": "cwu212",
+    "tytul": "UML 2.x. \u0106wiczenia zaawansowane",
+    "autor": "Stanis\u0142aw Wrycza, Bartosz Marcinkowski, Jacek Ma\u015blankowski",
+    "cena": "29.90",
+    "typ": "1",
+	"status": 3,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "cwu212_ebook",
+    "tytul": "UML 2.x. \u0106wiczenia zaawansowane",
+    "autor": "Stanis\u0142aw Wrycza, Bartosz Marcinkowski, Jacek Ma\u015blankowski",
+    "cena": "9.90",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "dascpo_ebook",
+    "tytul": "Data science od podstaw. Analiza danych w Pythonie",
+    "autor": "Joel Grus",
+    "cena": "45.60",
+    "typ": "2",
+	"status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "dascpo",
+    "tytul": "Data science od podstaw. Analiza danych w Pythonie",
+    "autor": "Joel Grus",
+    "cena": "57.00",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "deelea",
+    "tytul": "Deep Learning. Uczenie g\u0142\u0119bokie z j\u0119zykiem Python. Sztuczna inteligencja i sieci neuronowe",
+    "autor": "Valentino Zocca, Gianmario Spacagna, Daniel Slater, Peter Roelants",
+    "cena": "67.00",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "deelea_ebook",
+    "tytul": "Deep Learning. Uczenie g\u0142\u0119bokie z j\u0119zykiem Python. Sztuczna inteligencja i sieci neuronowe",
+    "autor": "Valentino Zocca, Gianmario Spacagna, Daniel Slater, Peter Roelants",
+    "cena": "53.60",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "docker",
+    "tytul": "Docker. Praktyczne zastosowania",
+    "autor": "Karl Matthias, Sean P. Kane",
+    "cena": "44.90",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "docker_ebook",
+    "tytul": "Docker. Praktyczne zastosowania",
+    "autor": "Karl Matthias, Sean P. Kane",
+    "cena": "35.92",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "docpro_ebook",
+    "tytul": "Docker. Projektowanie i wdra\u017canie aplikacji",
+    "autor": "Jaroslaw Krochmalski",
+    "cena": "43.91",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "docpro",
+    "tytul": "Docker. Projektowanie i wdra\u017canie aplikacji",
+    "autor": "Jaroslaw Krochmalski",
+    "cena": "54.90",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "drccop_ebook",
+    "tytul": "Adobe Dreamweaver CC\/CC PL. Oficjalny podr\u0119cznik",
+    "autor": "James J. Maivald",
+    "cena": "71.20",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "drccop",
+    "tytul": "Adobe Dreamweaver CC\/CC PL. Oficjalny podr\u0119cznik",
+    "autor": "James J. Maivald",
+    "cena": "89.00",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "dziesi_ebook",
+    "tytul": "Dziecko w sieci",
+    "autor": "Bartosz Danowski, Alicja Krupi\u0144ska",
+    "cena": "23.92",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "dziesi",
+    "tytul": "Dziecko w sieci",
+    "autor": "Bartosz Danowski, Alicja Krupi\u0144ska",
+    "cena": "29.90",
+    "typ": "1",
+    "status": 0
+  },
+  {
+    "ident": "e_07we_ebook",
+    "tytul": "Skuteczny nowoczesny C++. 42 sposoby lepszego pos\u0142ugiwania si\u0119 j\u0119zykami C++11 I C++14",
+    "autor": "Scott Meyers",
+    "cena": "55.44",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "karwys_ebook",
+    "tytul": "Kariera na wysokich obcasach. Jak z wdzi\u0119kiem i klas\u0105 osi\u0105gn\u0105\u0107 sukces zawodowy",
+    "autor": "Beata Rzepka",
+    "cena": "23.20",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "karwys_3",
+    "tytul": "Kariera na wysokich obcasach. Jak z wdzi\u0119kiem i klas\u0105 osi\u0105gn\u0105\u0107 sukces zawodowy",
+    "autor": "Beata Rzepka",
+    "cena": "23.92",
+    "typ": "4",
+    "status": 1
+  },
+  {
+    "ident": "karwys",
+    "tytul": "Kariera na wysokich obcasach. Jak z wdzi\u0119kiem i klas\u0105 osi\u0105gn\u0105\u0107 sukces zawodowy",
+    "autor": "Beata Rzepka",
+    "cena": "29.00",
+    "typ": "1",
+    "status": 0
+  },
+  {
+    "ident": "mlomiv",
+    "tytul": "M\u0142ody mistrz programowania. J\u0119zyki Baltie i Scratch dla dzieci",
+    "autor": "Agnieszka Borkowska, Pawe\u0142 Borkowski",
+    "cena": "39.90",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "mlomiv_ebook",
+    "tytul": "M\u0142ody mistrz programowania. J\u0119zyki Baltie i Scratch dla dzieci",
+    "autor": "Agnieszka Borkowska, Pawe\u0142 Borkowski",
+    "cena": "27.93",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "prasta_ebook",
+    "tytul": "Prawo dla startupu",
+    "autor": "Monika Wieczorek",
+    "cena": "35.92",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "prasta",
+    "tytul": "Prawo dla startupu",
+    "autor": "Monika Wieczorek",
+    "cena": "44.90",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "sh13pz",
+    "tytul": "SharePoint 2013 PL. Praktyczne zarz\u0105dzanie zasobami informacyjnymi w przedsi\u0119biorstwie",
+    "autor": "Steve Goodyear",
+    "cena": "59.00",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "sh13pz_ebook",
+    "tytul": "SharePoint 2013 PL. Praktyczne zarz\u0105dzanie zasobami informacyjnymi w przedsi\u0119biorstwie",
+    "autor": "Steve Goodyear",
+    "cena": "47.20",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "twanjs",
+    "tytul": "Tworzenie animacji z u\u017cyciem j\u0119zyka JavaScript",
+    "autor": "Julian Shapiro",
+    "cena": "34.90",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "twanjs_ebook",
+    "tytul": "Tworzenie animacji z u\u017cyciem j\u0119zyka JavaScript",
+    "autor": "Julian Shapiro",
+    "cena": "27.92",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "twapyi_ebook",
+    "tytul": "Tworzenie aplikacji z Yii. Receptury",
+    "autor": "Alexander Makarov",
+    "cena": "53.60",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "twapyi",
+    "tytul": "Tworzenie aplikacji z Yii. Receptury",
+    "autor": "Alexander Makarov",
+    "cena": "67.00",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "ws23ke",
+    "tytul": "Windows Server 2003. Ksi\u0119ga eksperta",
+    "autor": "Rand Morimoto, Michael Noel, Omar Droubi, Kenton Gardinier, Noel Neal",
+    "cena": "25.00",
+    "typ": "1",
+    "status": 3
+  },
+  {
+    "ident": "zarzco_ebook",
+    "tytul": "Zarz\u0105dzanie codzienno\u015bci\u0105. Zaplanuj dzie\u0144, skoncentruj si\u0119 i wyostrz sw\u00f3j tw\u00f3rczy umys\u0142",
+    "autor": "Jocelyn K. Glei",
+    "cena": "31.20",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "zarzco_3",
+    "tytul": "Zarz\u0105dzanie codzienno\u015bci\u0105. Zaplanuj dzie\u0144, skoncentruj si\u0119 i wyostrz sw\u00f3j tw\u00f3rczy umys\u0142",
+    "autor": "Jocelyn K. Glei",
+    "cena": "23.92",
+    "typ": "4",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "zarzco",
+    "tytul": "Zarz\u0105dzanie codzienno\u015bci\u0105. Zaplanuj dzie\u0144, skoncentruj si\u0119 i wyostrz sw\u00f3j tw\u00f3rczy umys\u0142",
+    "autor": "Jocelyn K. Glei",
+    "cena": "39.00",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "e_09a4_ebook",
+    "tytul": "Microsoft Windows Server 2008 R2 Vademecum administratora",
+    "autor": "William R. Stanek",
+    "cena": "55.44",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "a_011l",
+    "tytul": "Linux w systemach embedded.",
+    "autor": "Marcin Bis",
+    "cena": "84.76",
+    "typ": "1",
+    "status": 0,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "badaps_ebook",
+    "tytul": "Bazy danych. Pierwsze starcie",
+    "autor": "Adam Pelikant",
+    "cena": "29.00",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "badaps",
+    "tytul": "Bazy danych. Pierwsze starcie",
+    "autor": "Adam Pelikant",
+    "cena": "29.00",
+    "typ": "1",
+    "status": 0
+  },
+  {
+    "ident": "e_0d48_ebook",
+    "tytul": "Designing Voice User Interfaces. Principles of Conversational Experiences",
+    "autor": "Cathy Pearl",
+    "cena": "92.65",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "e_2gjn_ebook",
+    "tytul": "Data Wrangling with Python. Tips and Tools to Make Your Life Easier",
+    "autor": "Jacqueline Kazil, Katharine Jarmul",
+    "cena": "118.15",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "ex19ku_ebook",
+    "tytul": "Excel 2019 PL. Kurs",
+    "autor": "Witold Wrotek",
+    "cena": "27.93",
+    "typ": "2",
+    "status": 2
+  },
+  {
+    "ident": "ex19ku",
+    "tytul": "Excel 2019 PL. Kurs",
+    "autor": "Witold Wrotek",
+    "cena": "35.91",
+    "typ": "1",
+    "status": 2
+  },
+  {
+    "ident": "fastte_3",
+    "tytul": "Fast text. Jak pisa\u0107 kr\u00f3tkie teksty, kt\u00f3re b\u0142yskawicznie przyci\u0105gn\u0105 uwag\u0119",
+    "autor": "Joanna Wrycza-Bekier",
+    "cena": "23.20",
+    "typ": "4",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "fastte",
+    "tytul": "Fast text. Jak pisa\u0107 kr\u00f3tkie teksty, kt\u00f3re b\u0142yskawicznie przyci\u0105gn\u0105 uwag\u0119",
+    "autor": "Joanna Wrycza-Bekier",
+    "cena": "37.00",
+    "typ": "1",
+    "status": 0
+  },
+  {
+    "ident": "fastte_ebook",
+    "tytul": "Fast text. Jak pisa\u0107 kr\u00f3tkie teksty, kt\u00f3re b\u0142yskawicznie przyci\u0105gn\u0105 uwag\u0119",
+    "autor": "Joanna Wrycza-Bekier",
+    "cena": "29.60",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "html5w",
+    "tytul": "HTML5. Wszystko, co powinni\u015bcie wiedzie\u0107 o programowaniu. Przewodnik profesjonalisty",
+    "autor": "Luke Stevens, RJ Owen",
+    "cena": "39.90",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "html5w_ebook",
+    "tytul": "HTML5. Wszystko, co powinni\u015bcie wiedzie\u0107 o programowaniu. Przewodnik profesjonalisty",
+    "autor": "Luke Stevens, RJ Owen",
+    "cena": "31.92",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "joomb2_ebook",
+    "tytul": "Joomla! Biblia. Wydanie II",
+    "autor": "Ric Shreves",
+    "cena": "79.20",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "joomb2",
+    "tytul": "Joomla! Biblia. Wydanie II",
+    "autor": "Ric Shreves",
+    "cena": "99.00",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "lisbez_ebook",
+    "tytul": "Linux Server. Bezpiecze\u0144stwo i ochrona sieci",
+    "autor": "Chris Binnie",
+    "cena": "31.92",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "lisbez",
+    "tytul": "Linux Server. Bezpiecze\u0144stwo i ochrona sieci",
+    "autor": "Chris Binnie",
+    "cena": "39.90",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "marato_ebook",
+    "tytul": "Pobij sw\u00f3j rekord. Skuteczne treningi od 5 km do maratonu dla ambitnych biegaczy",
+    "autor": "Peter Pfitzinger, Scott Douglas",
+    "cena": "25.60",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "marato",
+    "tytul": "Pobij sw\u00f3j rekord. Skuteczne treningi od 5 km do maratonu dla ambitnych biegaczy",
+    "autor": "Peter Pfitzinger, Scott Douglas",
+    "cena": "32.00",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "matsi4",
+    "tytul": "MATLAB i Simulink. Poradnik u\u017cytkownika. Wydanie IV",
+    "autor": "Bogumi\u0142a Mrozek, Zbigniew Mrozek",
+    "cena": "49.00",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "matsi4_ebook",
+    "tytul": "MATLAB i Simulink. Poradnik u\u017cytkownika. Wydanie IV",
+    "autor": "Bogumi\u0142a Mrozek, Zbigniew Mrozek",
+    "cena": "39.20",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "minzci",
+    "tytul": "Minecraft. Zosta\u0144 cyfrowym in\u017cynierem",
+    "autor": "James Floyd Kelly",
+    "cena": "44.90",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "minzci_ebook",
+    "tytul": "Minecraft. Zosta\u0144 cyfrowym in\u017cynierem",
+    "autor": "James Floyd Kelly",
+    "cena": "35.92",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "misjsp_ebook",
+    "tytul": "Mistrzowski JavaScript. Programowanie zorientowane obiektowo",
+    "autor": "Andrea Chiarelli",
+    "cena": "39.20",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "misjsp",
+    "tytul": "Mistrzowski JavaScript. Programowanie zorientowane obiektowo",
+    "autor": "Andrea Chiarelli",
+    "cena": "49.00",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "naskro",
+    "tytul": "Na skr\u00f3ty. Jak hakerzy, wynalazcy i gwiazdy si\u0119gaj\u0105 po sukces",
+    "autor": "Shane Snow",
+    "cena": "44.90",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "naskro_ebook",
+    "tytul": "Na skr\u00f3ty. Jak hakerzy, wynalazcy i gwiazdy si\u0119gaj\u0105 po sukces",
+    "autor": "Shane Snow",
+    "cena": "35.92",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "nietlv",
+    "tytul": "Nie t\u0142umacz si\u0119, dzia\u0142aj! Odkryj moc samodyscypliny",
+    "autor": "Brian Tracy",
+    "cena": "39.90",
+    "typ": "1",
+    "status": 3,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "nieza3_ebook",
+    "tytul": "Niezawodne zasady web designu. Projektowanie spektakularnych witryn internetowych. Wydanie III",
+    "autor": "Jason Beaird, James George",
+    "cena": "49.00",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "nieza3",
+    "tytul": "Niezawodne zasady web designu. Projektowanie spektakularnych witryn internetowych. Wydanie III",
+    "autor": "Jason Beaird, James George",
+    "cena": "49.00",
+    "typ": "1",
+    "status": 3
+  },
+  {
+    "ident": "nodekw_ebook",
+    "tytul": "Node.js, MongoDB, AngularJS. Kompendium wiedzy",
+    "autor": "Brad Dayley",
+    "cena": "79.20",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "nodekw",
+    "tytul": "Node.js, MongoDB, AngularJS. Kompendium wiedzy",
+    "autor": "Brad Dayley",
+    "cena": "99.00",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "nodepr",
+    "tytul": "Node.js. Projektowanie, wdra\u017canie i utrzymywanie aplikacji",
+    "autor": "Sandro Pasquali",
+    "cena": "54.90",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "nodepr_ebook",
+    "tytul": "Node.js. Projektowanie, wdra\u017canie i utrzymywanie aplikacji",
+    "autor": "Sandro Pasquali",
+    "cena": "43.91",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "nosqln_ebook",
+    "tytul": "NoSQL, NewSQL i BigData. Bazy danych nast\u0119pnej generacji",
+    "autor": "Guy Harrison",
+    "cena": "43.91",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "nosqln",
+    "tytul": "NoSQL, NewSQL i BigData. Bazy danych nast\u0119pnej generacji",
+    "autor": "Guy Harrison",
+    "cena": "54.90",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "odpoit",
+    "tytul": "Od pomys\u0142u do przemys\u0142u. Projekty IT w praktyce",
+    "autor": "Adam Koszlajda",
+    "cena": "59.00",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "odpoit_ebook",
+    "tytul": "Od pomys\u0142u do przemys\u0142u. Projekty IT w praktyce",
+    "autor": "Adam Koszlajda",
+    "cena": "47.20",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "of21pp_ebook",
+    "tytul": "Microsoft Office 2013. Praktyczne programowanie makr i dodatk\u00f3w",
+    "autor": "Dawid Borycki",
+    "cena": "43.91",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "of21pp",
+    "tytul": "Microsoft Office 2013. Praktyczne programowanie makr i dodatk\u00f3w",
+    "autor": "Dawid Borycki",
+    "cena": "54.90",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "ofoto4",
+    "tytul": "Ksi\u0105\u017cka o fotografowaniu. Wydanie IV zmienione",
+    "autor": "Andrzej A. Mroczek",
+    "cena": "69.00",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "ofoto4_ebook",
+    "tytul": "Ksi\u0105\u017cka o fotografowaniu. Wydanie IV zmienione",
+    "autor": "Andrzej A. Mroczek",
+    "cena": "55.20",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "opglk7",
+    "tytul": "OpenGL. Ksi\u0119ga eksperta. Wydanie VII",
+    "autor": "Graham Sellers, Richard S. Wright Jr., Nicholas Haemel",
+    "cena": "119.00",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "opglk7_ebook",
+    "tytul": "OpenGL. Ksi\u0119ga eksperta. Wydanie VII",
+    "autor": "Graham Sellers, Richard S. Wright Jr., Nicholas Haemel",
+    "cena": "95.20",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "phmsv5",
+    "tytul": "PHP i MySQL. Tworzenie stron WWW. Vademecum profesjonalisty. Wydanie V",
+    "autor": "Luke Welling, Laura Thomson",
+    "cena": "109.00",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "phmsv5_ebook",
+    "tytul": "PHP i MySQL. Tworzenie stron WWW. Vademecum profesjonalisty. Wydanie V",
+    "autor": "Luke Welling, Laura Thomson",
+    "cena": "87.20",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "phoprf_ebook",
+    "tytul": "Photoshop. Profesjonalny retusz i fotomonta\u017c",
+    "autor": "Glyn Dewis",
+    "cena": "53.60",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "phoprf",
+    "tytul": "Photoshop. Profesjonalny retusz i fotomonta\u017c",
+    "autor": "Glyn Dewis",
+    "cena": "67.00",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "phpob5",
+    "tytul": "PHP. Obiekty, wzorce, narz\u0119dzia. Wydanie V",
+    "autor": "Matt Zandstra",
+    "cena": "89.00",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "phpob5_ebook",
+    "tytul": "PHP. Obiekty, wzorce, narz\u0119dzia. Wydanie V",
+    "autor": "Matt Zandstra",
+    "cena": "71.20",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "pispri",
+    "tytul": "Pi\u0119ciodniowy sprint. Rozwi\u0105zywanie trudnych problem\u00f3w i testowanie pomys\u0142\u00f3w",
+    "autor": "Jake Knapp, John Zeratsky, Braden Kowitz",
+    "cena": "39.00",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "pispri_ebook",
+    "tytul": "Pi\u0119ciodniowy sprint. Rozwi\u0105zywanie trudnych problem\u00f3w i testowanie pomys\u0142\u00f3w",
+    "autor": "Jake Knapp, John Zeratsky, Braden Kowitz",
+    "cena": "39.00",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "pkase2_ebook",
+    "tytul": "Praktyczny kurs asemblera. Wydanie II",
+    "autor": "Eugeniusz Wr\u00f3bel",
+    "cena": "69.00",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "pkase2",
+    "tytul": "Praktyczny kurs asemblera. Wydanie II",
+    "autor": "Eugeniusz Wr\u00f3bel",
+    "cena": "69.00",
+    "typ": "1",
+    "status": 0,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "pksql3_ebook",
+    "tytul": "Praktyczny kurs SQL. Wydanie III",
+    "autor": "Danuta Mendrala, Marcin Szeliga",
+    "cena": "39.20",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "pksql3",
+    "tytul": "Praktyczny kurs SQL. Wydanie III",
+    "autor": "Danuta Mendrala, Marcin Szeliga",
+    "cena": "49.00",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "pmsqlp",
+    "tytul": "Praktyki mistrza SQL. Programowanie zaawansowane",
+    "autor": "Joe Celko",
+    "cena": "119.00",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "pmsqlp_ebook",
+    "tytul": "Praktyki mistrza SQL. Programowanie zaawansowane",
+    "autor": "Joe Celko",
+    "cena": "95.20",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "pobeit",
+    "tytul": "B\u0105d\u017a bezpieczny w cyfrowym \u015bwiecie. Poradnik bezpiecze\u0144stwa IT dla ka\u017cdego",
+    "autor": "Marcin Pieleszek",
+    "cena": "39.90",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "pobeit_ebook",
+    "tytul": "B\u0105d\u017a bezpieczny w cyfrowym \u015bwiecie. Poradnik bezpiecze\u0144stwa IT dla ka\u017cdego",
+    "autor": "Marcin Pieleszek",
+    "cena": "31.92",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "podpen",
+    "tytul": "Podr\u0119cznik pentestera. Bezpiecze\u0144stwo system\u00f3w informatycznych",
+    "autor": "Peter Kim",
+    "cena": "49.00",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "podpen_ebook",
+    "tytul": "Podr\u0119cznik pentestera. Bezpiecze\u0144stwo system\u00f3w informatycznych",
+    "autor": "Peter Kim",
+    "cena": "49.00",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "pogepo_ebook",
+    "tytul": "Podr\u0119cznik genialnych pomys\u0142\u00f3w. Od inspiracji po realizacj\u0119. Smashing Magazine",
+    "autor": "Cameron Chapman",
+    "cena": "55.20",
+    "typ": "2",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "pogepo",
+    "tytul": "Podr\u0119cznik genialnych pomys\u0142\u00f3w. Od inspiracji po realizacj\u0119. Smashing Magazine",
+    "autor": "Cameron Chapman",
+    "cena": "69.00",
+    "typ": "1",
+    "status": 1
+  },
+  {
+    "ident": "postfi",
+    "tytul": "Postfix. Przewodnik encyklopedyczny",
+    "autor": "Kyle D. Dent",
+    "cena": "44.00",
+    "typ": "1",
+    "status": 1,
+	"okladka": "https://images.penguinrandomhouse.com/cover/9781594633409"
+  },
+  {
+    "ident": "praebi",
+    "tytul": "Prawo w e-biznesie. Wszystko, co musisz wiedzie\u0107, \u017ceby prowadzi\u0107 e-biznes i spa\u0107 spokojnie",
+    "autor": "praca zbiorowa pod redakcj\u0105 Macieja Dutko",
+    "cena": "44.90",
+    "typ": "1",
+    "status": 3
+  },
+  {
+    "ident": "praebi_ebook",
+    "tytul": "Prawo w e-biznesie. Wszystko, co musisz wiedzie\u0107, \u017ceby prowadzi\u0107 e-biznes i spa\u0107 spokojnie",
+    "autor": "praca zbiorowa pod redakcj\u0105 Macieja Dutko",
+    "cena": "35.92",
+    "typ": "2",
+    "status": 1
+  },
+  {
+    "ident": "pralez_ebook",
+    "tytul": "Praktyczne lekcje zarz\u0105dzania projektami",
+    "autor": "Micha\u0142 Kopczewski",
+    "cena": "31.20",
+    "typ": "2",
+    "status": 1
+  }
+]
