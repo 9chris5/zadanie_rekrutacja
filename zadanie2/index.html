@@ -103,9 +103,16 @@
                 </td>
                 <td>
                   <v-img
+				  	v-if="props.item.okladka"
                     :src="props.item.okladka"
-                  >
-                  </v-img>
+				  >
+				  </v-img>
+				  <span 
+					v-else
+					class="font-italic grey--text"
+					>
+					brak okładki
+				  </span>
                 </td>
                 <td class="text-xs-left">{{ props.item.tytul }}</td>
                 <td class="text-xs-left">{{ props.item.autor }}</td>
